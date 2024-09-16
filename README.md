@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-# flutter_app_system
+# Angel_Dev_Code
 
-A new Flutter project.
+Proyectos personales de desarrollo en diferentes tecnologías.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto es un punto de partida para una aplicación Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -15,7 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# IA-DEVELOPER
-Bienvenido a mi repositorio, donde tendré todos mis proyectos como desarrollador.
->>>>>>> 0e604e521656c654368af9c346419a24b6b121cd
